@@ -11,9 +11,9 @@ Programadores:
 
 using namespace std;
 
-string jugador_1;  //Variables globales
-string jugador_2;  //Variables globales
-char logo=220;     //Variables globales
+string jugador_1;  //Variable 1 global
+string jugador_2;  //Variable 2 global
+char logo=220;     //Variable 3 global 
 
 void fila_1(int a)  //Despliegue de la primera fila
 {
